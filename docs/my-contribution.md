@@ -22,7 +22,7 @@ The prototype was created through Figma Make's AI-assisted workflow. The role de
 
 ## Team credit
 
-The dashboard, report, and presentation are team deliverables by **Linyao Gao, Ringing Song, You (Mia) Wu, and Samyak Pokharna**. The original report and presentation retain their team authorship. This repository does not infer a detailed division of teammates' responsibilities.
+The dashboard, report, and presentation are team deliverables by **Linyao Gao, Ringing Song, You (Mia) Wu, and Samyak Pokharna**. The original report and presentation retain their team authorship.
 
 ## Portfolio description
 

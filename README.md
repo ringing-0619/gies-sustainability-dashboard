@@ -1,10 +1,10 @@
 # Gies Sustainability Dashboard
 
-A Pillar 3 entry for the **2025 Sustainability Expertise Case Competition**, sponsored by the **Center for Professional Responsibility in Business and Society (CPRBS)**. Our four-person team proposed a user-experience and visualization redesign of the existing Gies Sustainability Dashboard and demonstrated it through an interactive Figma Make prototype.
+A Pillar 3 entry for the **2025 Sustainability Expertise Case Competition**, sponsored by the **Center for Professional Responsibility in Business and Society (CPRBS)**. Our four-person team redesigned the user experience and visualizations of the Gies Sustainability Dashboard and built an interactive Figma Make prototype.
 
-> **All dashboard data is simulated.** Every metric, publication record, faculty profile, institutional comparison, funding figure, success story, and simulator output is illustrative. The project demonstrates UX and interaction design; it reports no empirical findings or measured institutional outcomes.
+> **All dashboard data is simulated.** Metrics, publication records, faculty profiles, institutional comparisons, funding figures, success stories, and simulator outputs provide illustrative content for the interactive design.
 
-[Explore the interactive prototype](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1) · [Design case study](docs/case-study.md) · [Competition context](docs/competition-alignment.md) · [My contribution](docs/my-contribution.md) · [Team report](reports/Group5_report.pdf) · [Presentation](reports/Group5_ppt.pdf)
+[Explore the interactive prototype](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1) · [Design case study](docs/case-study.md) · [My contribution](docs/my-contribution.md) · [Team report](reports/Group5_report.pdf) · [Presentation](reports/Group5_ppt.pdf)
 
 ![Dashboard homepage with an overview of simulated research indicators.](images/dashboard-home.png)
 
@@ -31,13 +31,13 @@ The redesign asks: **How can a sustainability dashboard help different audiences
 
 ## Three audiences, three journeys
 
-| Audience | Goal | Proposed journey |
+| Audience | Goal | Designed journey |
 | --- | --- | --- |
 | University leaders | Understand research strengths and explore resource priorities | Overview → peer benchmarking → faculty and department performance → illustrative impact stories → scenario simulation → prioritization |
 | Prospective students | Find a faculty mentor in sustainable finance | Overview → finance-related article search and filters → faculty discovery → individual profile exploration |
 | Donors | Explore support for renewable-energy research | SDG 7 / clean-energy exploration → impact simulation → illustrative success stories → geographic and university comparison |
 
-The student and donor scenarios apply the brief's two specified tasks to the team's journey design. University leadership is an additional audience covered by the project. These are designed journeys; no interview study, usability-test results, or measured conversion improvements are claimed.
+The team designed journeys for all three audiences, connecting each user's goal to relevant dashboard pages, search controls, filters, and detail views. The student and donor examples focus on sustainable-finance mentorship and renewable-energy research funding.
 
 ## Seven core modules
 
@@ -64,7 +64,7 @@ The prototype also includes supporting **Data & Methodology** and **About** page
 - **Connect overview and detail.** Provide publication search and faculty profiles so students can move beyond aggregate charts.
 - **Make scenarios interactive.** Let donors adjust hypothetical inputs and inspect illustrative outputs. All figures and model assumptions are simulated.
 
-Read the [case study](docs/case-study.md) for the reasoning, journey details, and limits of the prototype.
+Read the [case study](docs/case-study.md) for the design reasoning, user journeys, and visualization gallery.
 
 ## Interface gallery
 
@@ -84,7 +84,7 @@ Read the [case study](docs/case-study.md) for the reasoning, journey details, an
 
 ![Impact simulator with hypothetical funding inputs and illustrative research and impact outputs.](images/donor-impact-simulator.png)
 
-*All inputs, outputs, matching-fund figures, and tax examples are simulated. Existing interface wording about historical data is part of the original prototype copy and does not establish a real data source or validated forecasting model.*
+*The simulator demonstrates adjustable funding and timeframe inputs with illustrative outputs. All figures, matching-fund examples, and tax examples are simulated.*
 
 ## Project materials
 
@@ -93,7 +93,6 @@ gies-sustainability-dashboard/
 ├── README.md
 ├── docs/
 │   ├── case-study.md
-│   ├── competition-alignment.md
 │   └── my-contribution.md
 ├── images/
 │   ├── dashboard-home.png
@@ -113,15 +112,10 @@ gies-sustainability-dashboard/
     └── README.md
 ```
 
-The interactive implementation is hosted in the linked Figma Make project. This repository contains the portfolio case study, screenshots, and original team documents; it does not include a standalone application source export or a local build workflow.
+The interactive prototype is hosted in the linked Figma Make project. This repository presents the design case study, user journeys, screenshots, personal contribution, and team deliverables.
 
-## Scope and interpretation
+## Prototype data
 
-- All dashboard data is simulated, including content that resembles live updates, real faculty or publications, historical evidence, or actual success stories.
-- Institutional names provide the design context; displayed performance and outcomes are illustrative.
-- The donor simulator is an interaction demonstration with hypothetical assumptions.
-- The deliverable is a functional design prototype. Production deployment, backend integration, and validated analytical models are outside the demonstrated scope.
-- Improved clarity and easier discovery are design objectives. No measured usability improvement, fundraising result, or adoption outcome is reported.
-- External referral-page designs and a traffic-acquisition proposal were not included in the original submission; see the [competition context](docs/competition-alignment.md).
+All dashboard content uses simulated data to demonstrate the designed interactions, visualizations, and funding scenarios. Institutional names provide the project context, and displayed metrics and outcomes are illustrative.
 
-The original report and slides are preserved as submitted. Their data-access assumptions and impact language should be read alongside the [data clarification](reports/README.md).
+The [team report and presentation](reports/README.md) document the dashboard structure, user journeys, and design decisions.
