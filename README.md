@@ -1,10 +1,10 @@
 # Gies Sustainability Dashboard
 
-A user-centered redesign of a sustainability research dashboard for university leaders, students, and donors. This portfolio case study presents the product concept, user journeys, and interactive prototype developed by a four-person team.
+A Pillar 3 entry for the **2025 Sustainability Expertise Case Competition**, sponsored by the **Center for Professional Responsibility in Business and Society (CPRBS)**. Our four-person team proposed a user-experience and visualization redesign of the existing Gies Sustainability Dashboard and demonstrated it through an interactive Figma Make prototype.
 
 > **All dashboard data is simulated.** Every metric, publication record, faculty profile, institutional comparison, funding figure, success story, and simulator output is illustrative. The project demonstrates UX and interaction design; it reports no empirical findings or measured institutional outcomes.
 
-[Explore the interactive prototype](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1) · [Design case study](docs/case-study.md) · [My contribution](docs/my-contribution.md) · [Team report](reports/Group5_report.pdf) · [Presentation](reports/Group5_ppt.pdf)
+[Explore the interactive prototype](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1) · [Design case study](docs/case-study.md) · [Competition context](docs/competition-alignment.md) · [My contribution](docs/my-contribution.md) · [Team report](reports/Group5_report.pdf) · [Presentation](reports/Group5_ppt.pdf)
 
 ![Dashboard homepage with an overview of simulated research indicators.](images/dashboard-home.png)
 
@@ -23,6 +23,8 @@ The dashboard, report, and presentation are shared team deliverables. Team membe
 
 ## The design challenge
 
+The selected track, **Pillar 3: The User Experience (Dashboard & Visualization Design)**, focuses on the landing page, advanced visualizations, and persona-specific navigation, search, filters, and drill-downs.
+
 The team's evaluation identified a gap between the information presented in the original dashboard and the tasks different users wanted to complete. High-level research counts offered limited guidance for strategic comparison, publication discovery, faculty exploration, and donor scenarios.
 
 The redesign asks: **How can a sustainability dashboard help different audiences move from an overview to information relevant to their next decision?**
@@ -32,10 +34,10 @@ The redesign asks: **How can a sustainability dashboard help different audiences
 | Audience | Goal | Proposed journey |
 | --- | --- | --- |
 | University leaders | Understand research strengths and explore resource priorities | Overview → peer benchmarking → faculty and department performance → illustrative impact stories → scenario simulation → prioritization |
-| Students | Discover research topics and potential faculty mentors | Overview → SDG article search → faculty discovery → individual profile exploration |
-| Donors | Explore sustainability themes and illustrative giving scenarios | SDG overview → impact simulation → illustrative success stories → geographic comparison → university comparison |
+| Prospective students | Find a faculty mentor in sustainable finance | Overview → finance-related article search and filters → faculty discovery → individual profile exploration |
+| Donors | Explore support for renewable-energy research | SDG 7 / clean-energy exploration → impact simulation → illustrative success stories → geographic and university comparison |
 
-These are designed journeys based on the team's evaluation. No interview study, usability-test results, or measured conversion improvements are claimed.
+The student and donor scenarios apply the brief's two specified tasks to the team's journey design. University leadership is an additional audience covered by the project. These are designed journeys; no interview study, usability-test results, or measured conversion improvements are claimed.
 
 ## Seven core modules
 
@@ -68,9 +70,9 @@ Read the [case study](docs/case-study.md) for the reasoning, journey details, an
 
 ### SDG research landscape
 
-![SDG landscape page showing year controls, simulated coverage, and the start of strength analysis.](images/sdg-research-landscape.png)
+![Existing SDG theme positioning chart showing theme roles, two axes, bubble sizes, and a color legend.](images/sdg-theme-positioning.png)
 
-*Year controls and research coverage demonstrate the structure of the analytical workflow. All data is simulated.*
+*The original dashboard's theme-positioning view compares primary focus and supporting-theme intensity, with bubble size representing the tertiary role. All data is simulated. See the [visualization gallery](docs/case-study.md#visualization-gallery) for the existing network graph, state heatmap, and state-by-SDG matrix.*
 
 ### Article discovery
 
@@ -91,12 +93,17 @@ gies-sustainability-dashboard/
 ├── README.md
 ├── docs/
 │   ├── case-study.md
+│   ├── competition-alignment.md
 │   └── my-contribution.md
 ├── images/
 │   ├── dashboard-home.png
 │   ├── sdg-research-landscape.png
+│   ├── sdg-theme-positioning.png
 │   ├── sdg-articles-explorer.png
 │   ├── donor-impact-simulator.png
+│   ├── faculty-network.png
+│   ├── state-research-heatmap.png
+│   ├── state-sdg-matrix.png
 │   ├── information-architecture.png
 │   ├── persona-module-blueprint.png
 │   └── README.md
@@ -115,5 +122,6 @@ The interactive implementation is hosted in the linked Figma Make project. This 
 - The donor simulator is an interaction demonstration with hypothetical assumptions.
 - The deliverable is a functional design prototype. Production deployment, backend integration, and validated analytical models are outside the demonstrated scope.
 - Improved clarity and easier discovery are design objectives. No measured usability improvement, fundraising result, or adoption outcome is reported.
+- External referral-page designs and a traffic-acquisition proposal were not included in the original submission; see the [competition context](docs/competition-alignment.md).
 
 The original report and slides are preserved as submitted. Their data-access assumptions and impact language should be read alongside the [data clarification](reports/README.md).
