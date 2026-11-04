@@ -1,29 +1,34 @@
 # Gies Sustainability Dashboard
 
-A Pillar 3 entry for the **2025 Sustainability Expertise Case Competition**, sponsored by the **Center for Professional Responsibility in Business and Society (CPRBS)**. Our four-person team redesigned the user experience and visualizations of the Gies Sustainability Dashboard and built an interactive Figma Make prototype.
+A user-centered redesign of the Gies Sustainability Dashboard, developed for **Pillar 3 of the 2025 Sustainability Expertise Case Competition**, sponsored by CPRBS.
 
-> **All dashboard data is simulated.** Metrics, publication records, faculty profiles, institutional comparisons, funding figures, success stories, and simulator outputs provide illustrative content for the interactive design.
+**Figma Make · UX Design · User Journeys · Information Architecture · Data Visualization**
 
-[Explore the interactive prototype](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1) · [Design case study](docs/case-study.md) · [My contribution](docs/my-contribution.md) · [Team report](reports/Group5_report.pdf) · [Presentation](reports/Group5_ppt.pdf)
+## Project at a glance
+
+- **Task:** Organize SDG-aligned research into task-based workflows for university leaders, prospective students, and donors.
+- **UX design:** Created **3 persona journeys** and a **7-module information architecture**, connecting research overviews with publication discovery, faculty profiles, and donor scenarios.
+- **Visualization and interaction:** Combined **quadrant charts, faculty networks, and state-level heatmaps** with keyword search, filters, node details, and adjustable funding scenarios.
+- **Deliverables:** Built an **interactive Figma Make prototype** and documented the dashboard structure, user journeys, and design decisions in a team report and presentation.
+
+All dashboard data is **simulated**, providing illustrative metrics, records, comparisons, stories, and scenario outputs for the interactive design.
 
 ![Dashboard homepage with an overview of simulated research indicators.](images/dashboard-home.png)
 
 *Prototype homepage. All displayed values are simulated.*
 
-## My role
+## Explore the project
 
-**Ringing Song — Project Lead & Lead UX/Prototype Designer**
-
-- Led the project's overall concept development and coordinated the four-person team.
-- Conceived most of the journeys for leaders, students, and donors, connecting their goals to dashboard actions and relevant information.
-- Built and iterated on most of the interactive website prototype using Figma Make and AI-assisted prototyping.
-- Authored the Overview and Blueprint sections of both the team report and presentation.
-
-The dashboard, report, and presentation are shared team deliverables. Team members: **Linyao Gao, Ringing Song, You (Mia) Wu, and Samyak Pokharna**.
+| Content | Materials |
+|---|---|
+| Interactive dashboard | [Figma Make prototype](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1) |
+| Design process and user journeys | [Design case study](docs/case-study.md) |
+| Advanced visualizations | [Visualization gallery](docs/case-study.md#visualization-gallery) |
+| Team deliverables | [Report](reports/Group5_report.pdf) · [Presentation](reports/Group5_ppt.pdf) |
 
 ## The design challenge
 
-The selected track, **Pillar 3: The User Experience (Dashboard & Visualization Design)**, focuses on the landing page, advanced visualizations, and persona-specific navigation, search, filters, and drill-downs.
+The team focused the redesign on a concise landing page, advanced visualizations, and task-based navigation through search, filters, and drill-downs.
 
 The team's evaluation identified a gap between the information presented in the original dashboard and the tasks different users wanted to complete. High-level research counts offered limited guidance for strategic comparison, publication discovery, faculty exploration, and donor scenarios.
 
@@ -86,36 +91,10 @@ Read the [case study](docs/case-study.md) for the design reasoning, user journey
 
 *The simulator demonstrates adjustable funding and timeframe inputs with illustrative outputs. All figures, matching-fund examples, and tax examples are simulated.*
 
-## Project materials
-
-```text
-gies-sustainability-dashboard/
-├── README.md
-├── docs/
-│   ├── case-study.md
-│   └── my-contribution.md
-├── images/
-│   ├── dashboard-home.png
-│   ├── sdg-research-landscape.png
-│   ├── sdg-theme-positioning.png
-│   ├── sdg-articles-explorer.png
-│   ├── donor-impact-simulator.png
-│   ├── faculty-network.png
-│   ├── state-research-heatmap.png
-│   ├── state-sdg-matrix.png
-│   ├── information-architecture.png
-│   ├── persona-module-blueprint.png
-│   └── README.md
-└── reports/
-    ├── Group5_report.pdf
-    ├── Group5_ppt.pdf
-    └── README.md
-```
-
-The interactive prototype is hosted in the linked Figma Make project. This repository presents the design case study, user journeys, screenshots, personal contribution, and team deliverables.
-
 ## Prototype data
 
 All dashboard content uses simulated data to demonstrate the designed interactions, visualizations, and funding scenarios. Institutional names provide the project context, and displayed metrics and outcomes are illustrative.
 
 The [team report and presentation](reports/README.md) document the dashboard structure, user journeys, and design decisions.
+
+Team: **Linyao Gao, Ringing Song, You (Mia) Wu, and Samyak Pokharna**.

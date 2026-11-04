@@ -1,6 +1,6 @@
 # Design case study
 
-[Back to project overview](../README.md) · [Personal contribution](my-contribution.md) · [Original team report](../reports/Group5_report.pdf)
+[Back to project overview](../README.md) · [Team report](../reports/Group5_report.pdf) · [Presentation](../reports/Group5_ppt.pdf)
 
 > All dashboard data is simulated. The metrics, records, comparisons, cases, and scenario outputs support a design demonstration.
 

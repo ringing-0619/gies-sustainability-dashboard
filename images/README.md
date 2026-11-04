@@ -17,4 +17,4 @@
 
 Screenshots show the team's interface, visualizations, and interactions. All displayed statistics, records, relationships, and outcome examples are simulated.
 
-The dashboard and presentation are credited to the four-person project team. Personal responsibilities are described in [My contribution](../docs/my-contribution.md).
+The dashboard and presentation are credited to the four-person project team.
