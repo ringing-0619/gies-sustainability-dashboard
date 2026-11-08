@@ -1,17 +1,16 @@
-# Gies Sustainability Dashboard
+# 2025 Sustainability Expertise Case Competition
 
 English | [简体中文](README.zh-CN.md)
 
-A user-centered redesign of the Gies Sustainability Dashboard, developed for **Pillar 3 of the 2025 Sustainability Expertise Case Competition**, sponsored by CPRBS.
+A team entry in **Pillar 3: The User Experience (Dashboard & Visualization Design)**, focused on redesigning the Gies Sustainability Dashboard.
 
 **Figma Make · UX Design · User Journeys · Information Architecture · Data Visualization**
 
 ## Project at a glance
 
-- **Task:** Organize SDG-aligned research into task-based workflows for university leaders, prospective students, and donors.
-- **UX design:** Created **3 persona journeys** and a **7-module information architecture**, connecting research overviews with publication discovery, faculty profiles, and donor scenarios.
-- **Visualization and interaction:** Combined **quadrant charts, faculty networks, and state-level heatmaps** with keyword search, filters, node details, and adjustable funding scenarios.
-- **Deliverables:** Built an **interactive Figma Make prototype** and documented the dashboard structure, user journeys, and design decisions in a team report and presentation.
+- **Background:** The competition used the Gies Sustainability Dashboard as a starting point to explore how university sustainability research can connect with societal needs. The dashboard organizes faculty research around the **17 UN Sustainable Development Goals (SDGs)**.
+- **Design challenge:** How can university leaders, students, and donors quickly understand the research landscape, find relevant expertise, and navigate to information that supports their goals?
+- **Deliverables:** An **interactive Figma Make dashboard prototype**, a **team report**, and a **presentation** covering the landing page, visualizations, and user journeys.
 
 All dashboard data is **simulated**, providing illustrative metrics, records, comparisons, stories, and scenario outputs for the interactive design.
 
