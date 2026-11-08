@@ -1,5 +1,7 @@
 # Gies Sustainability Dashboard
 
+English | [简体中文](README.zh-CN.md)
+
 A user-centered redesign of the Gies Sustainability Dashboard, developed for **Pillar 3 of the 2025 Sustainability Expertise Case Competition**, sponsored by CPRBS.
 
 **Figma Make · UX Design · User Journeys · Information Architecture · Data Visualization**
@@ -12,6 +14,13 @@ A user-centered redesign of the Gies Sustainability Dashboard, developed for **P
 - **Deliverables:** Built an **interactive Figma Make prototype** and documented the dashboard structure, user journeys, and design decisions in a team report and presentation.
 
 All dashboard data is **simulated**, providing illustrative metrics, records, comparisons, stories, and scenario outputs for the interactive design.
+
+## My contributions
+
+- **UX strategy and user journeys:** Defined the redesign direction, originated most of the dashboard concepts, and led journey design for **leaders, students, and donors**. [Blueprint](images/persona-module-blueprint.png)
+- **Dashboard prototyping:** Built and iterated on most of the **interactive Figma Make dashboard**, connecting SDG analysis, article exploration, faculty profiles, and donor scenarios. [Prototype](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&fullscreen=1)
+- **Project leadership:** Represented the team in faculty-advisor discussions; coordinated the project schedule, assigned tasks, organized meetings, and guided teammates' work through suggestions and feedback.
+- **Report and presentation:** Created the **Overview and Blueprint** sections of the report and slide deck, and presented these sections in the final team presentation. [Report](reports/Group5_report.pdf) · [Presentation](reports/Group5_ppt.pdf)
 
 ![Dashboard homepage with an overview of simulated research indicators.](images/dashboard-home.png)
 
