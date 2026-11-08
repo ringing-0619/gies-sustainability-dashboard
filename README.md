@@ -13,6 +13,16 @@ A user-centered redesign of the Gies Sustainability Dashboard, developed for **P
 
 All dashboard data is **simulated**, providing illustrative metrics, records, comparisons, stories, and scenario outputs for the interactive design.
 
+## My Contributions
+
+**Ringing Song — Project Lead & Lead UX/Prototype Designer**
+
+- **Concept and UX design:** Led the overall redesign direction and originated most of the project ideas and user journeys for leaders, students, and donors.
+- **Interactive prototype:** Built and iterated on most of the Figma Make dashboard, translating the design concepts into connected pages, visualizations, and interactions.
+- **Faculty communication:** Represented the team in discussions with the faculty advisor and coordinated communication throughout the project.
+- **Team leadership:** Planned and tracked project progress, assigned tasks, organized team meetings, and guided teammates through their work with suggestions and feedback.
+- **Documentation and presentation:** Authored the Overview and Blueprint sections of the team report and slide deck, and presented those sections in the final team presentation.
+
 ![Dashboard homepage with an overview of simulated research indicators.](images/dashboard-home.png)
 
 *Prototype homepage. All displayed values are simulated.*
